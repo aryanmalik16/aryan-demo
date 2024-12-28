@@ -1,3 +1,3 @@
 # aryan-demo
-this is my first repository 
-author-aryan malik
+This is my first repository 
+Author-aryan malik
